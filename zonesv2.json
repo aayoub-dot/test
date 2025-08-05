@@ -6273,8 +6273,9 @@
     },
     {
       "type": "Feature",
+       "id": "MAR",
+
       "properties": {
-        "id": "MAR",
         "name": "Morocco",
         "hex_color": "#EEEEEE"
       },
