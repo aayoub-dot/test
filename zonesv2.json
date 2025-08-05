@@ -6273,12 +6273,12 @@
     },
     {
       "type": "Feature",
-       "id": "MAR",
+  "properties": {
+    "id": "MAR",
+    "name": "Morocco",
+    "hex_color": "#EEEEEE"
+  },
 
-      "properties": {
-        "name": "Morocco",
-        "hex_color": "#EEEEEE"
-      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
